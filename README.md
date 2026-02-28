@@ -1,6 +1,8 @@
 ## Hi there 👋
 # Hi there 👋 I'm Kathirsan
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kathirsan&label=Profile%20views&color=0e75b6&style=flat" alt="Kathirsan" /> </p>
+
 🎓 **B.Sc. in Software Engineering** – Sabaragamuwa University of Sri Lanka  
 💻 Interested in: Web Development | AI | Mobile Apps  
 🌱 Currently learning: Java, HTML, CSS, JavaScript  
