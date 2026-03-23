@@ -5,7 +5,7 @@
 
 🎓 **B.Sc. in Software Engineering** – Sabaragamuwa University of Sri Lanka  
 💻 Interested in: Web Development | AI | Mobile Apps  
-🌱 Currently learning: Java, HTML, CSS, JavaScript  
+🌱 Currently learning:  HTML, CSS, JavaScript and React
 📫 Reach me at: vivekanantharajakathirsan2003@gmail.com
 
 ---
