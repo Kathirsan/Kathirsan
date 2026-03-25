@@ -13,6 +13,8 @@
 ## 🚀 Projects
 - **Student Management System** – Java, MySQL  
 - **Personal Portfolio Website** – HTML, CSS, JS
+- **New Calculator**-HTML, CSS, JS
+- 
 
 ---
 
