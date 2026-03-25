@@ -11,9 +11,9 @@
 ---
 
 ## 🚀 Projects
-- **Student Management System** – Java, MySQL  
-- **Personal Portfolio Website** – HTML, CSS, JS
-- **New Calculator**-HTML, CSS, JS
+- **Student Management System** – Java AND MySQL  
+- **Personal Portfolio Website** – HTML, CSS AND JS
+- **New Calculator**-HTML, CSS AND JS
 - **To-Do Small App**-HTML,CSS AND JS
 - **Traveling Website(Pearl Guide)**-HTML,CSS,JS,REACT,MYSQL AND PHP
 - **Theatre Booking System**-HTML,CSS,JS,REACT,MYSQL AND Node.Js
