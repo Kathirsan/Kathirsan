@@ -1,40 +1,33 @@
-## Hi there 👋
-# Hi there 👋 I'm Kathirsan
+# Hi there, I'm Vivekanantharaja Kathirsan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kathirsan&label=Profile%20views&color=0e75b6&style=flat" alt="Kathirsan" /> </p>
-
-🎓 **B.Sc. in Software Engineering** – Sabaragamuwa University of Sri Lanka  
-💻 Interested in: Web Development | AI | Mobile Apps  
-🌱 Currently learning:  HTML, CSS, JavaScript and React
-📫 Reach me at: vivekanantharajakathirsan2003@gmail.com
+🎓 **Software Engineering Undergraduate** at Sabaragamuwa University of Sri Lanka  
+💻 Aspiring **Full-Stack Developer** & Tech Enthusiast  
+🌱 Currently building with **React, Node.js, Express, and Modern Web Architectures**  
+📫 Reach me at: **vivekanantharajakathirsan2003@gmail.com**
 
 ---
 
-## 🚀 Projects
-- **Student Management System** – Java AND MySQL  
-- **Personal Portfolio Website** – HTML, CSS AND JS
-- **New Calculator**-HTML, CSS AND JS
-- **To-Do Small App**-HTML,CSS AND JS
-- **Traveling Website(Pearl Guide)**-HTML,CSS,JS,REACT,MYSQL AND PHP
-- **Theatre Booking System**-HTML,CSS,JS,REACT,MYSQL AND Node.Js
-- **Online Cake Shop Website**-HTML,CSS,JS,REACT,MYSQL AND Node.Js
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** JavaScript (ES6+), TypeScript, Java, Dart, PHP, HTML5, CSS3
+- **Frontend:** React.js, Tailwind CSS, Bootstrap
+- **Backend & APIs:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, Docker, Figma, VS Code
 
 ---
 
-## 📊 GitHub Stats
-![Kathirsan](https://github.com/Kathirsan/Kathirsan/edit/main/README.md)
+### 🚀 Featured Projects
 
-<!--
-**Kathirsan/Kathirsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **DisasterGuard** — AI-powered disaster response and hazard verification platform built for CodeAréna '26.
+- **Aetheria 2100** — Smart-city transit UI/UX and web interface built for the Cre8X 3.0 competition.
+- **MERN Task Manager** — Full-stack productivity application with REST APIs and database persistence.
+- **Instagram Clone** — Responsive social media frontend architecture built using React.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kathirsan&show_icons=true&theme=radical" alt="Kathirsan's GitHub stats" />
+</p>
