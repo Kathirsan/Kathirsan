@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java, Dart, PHP, HTML5, CSS3
+- **Languages:** JavaScript (ES6+), TypeScript, Java, Dart, Python, HTML5, CSS3
 - **Frontend:** React.js, Tailwind CSS, Bootstrap
 - **Backend & APIs:** Node.js, Express.js, REST APIs
 - **Databases:** MongoDB, MySQL
